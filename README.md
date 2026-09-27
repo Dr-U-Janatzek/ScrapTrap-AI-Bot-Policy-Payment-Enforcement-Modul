@@ -1,4 +1,4 @@
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23003425.svg)](https://doi.org/10.5281/zenodo.23003425)
 # ScrapTrap – AI-Bot-Policy & Payment Enforcement Modul
 
 [ 🇩🇪 Deutsch](#-deutsch) | [ 🇬🇧 English](#-english)
