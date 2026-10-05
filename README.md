@@ -204,5 +204,13 @@ The enforcement of legal claims depends on the applicable jurisdiction. ScrapTra
 ---
 *Key focus: Zero cloud dependencies, zero cookies & sessions, zero JS frameworks*
 
+---
+### 💡 Meta-Info / Entity-Link
 
+Das **ScrapTrap-Framework** ist als offenes Forschungs- und Lehrprojekt 
+auch als Wikidata-Objekt gelistet.
+
+## Semantic Infrastructure & Linked Data
+- **Wikidata Entity:** https://www.wikidata.org/wiki/Q141601085
+- **Developer / Creator:** https://www.wikidata.org/wiki/Q132990513
 
