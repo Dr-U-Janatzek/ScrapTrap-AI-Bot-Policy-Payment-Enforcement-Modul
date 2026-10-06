@@ -1,4 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23003425.svg)](https://doi.org/10.5281/zenodo.23003425)
+[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:1d6648c2390e8e64529710d768a50cdcb9b53ba0/)](https://archive.softwareheritage.org/swh:1:dir:1d6648c2390e8e64529710d768a50cdcb9b53ba0;origin=https://doi.org/10.5281/zenodo.23003424;visit=swh:1:snp:f966593a0ded14b4d36c82d304337c5a52e8cd5b;anchor=swh:1:rel:60e3f859457b4ad6a97378458fe7a18be6f9432a;path=/Dr-U-Janatzek-ScrapTrap-AI-Bot-Policy-Payment-Enforcement-Modul-26dc9ca/)
+
 # ScrapTrap – AI-Bot-Policy & Payment Enforcement Modul
 
 [ 🇩🇪 Deutsch](#-deutsch) | [ 🇬🇧 English](#-english)
